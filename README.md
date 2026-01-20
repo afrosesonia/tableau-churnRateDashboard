@@ -1,4 +1,4 @@
-# tableau-ChurnRateDashboard
+# Tableau-ChurnRateDashboard
 Analysis, Findings and Recommendations
 
 # Key insights include payment method, tenure churn count, monthly charges, contract type growth pattern
